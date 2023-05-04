@@ -1,0 +1,42 @@
+body{
+    background:rgb(223, 221, 221);
+} 
+.container1{
+    display: flex;
+}
+.image{
+    padding: 7px;
+    border: 5px solid rgb(15, 15, 12);
+    margin-top: 30px;
+    height: 200px;
+    margin-left: 250px;
+}
+.heading{
+   line-height: 7px;
+   margin-left: 221px;
+   font-size: 25px;
+   font-weight: 10px ;
+   font-family: 'Times New Roman', Times, serif;
+}
+.quote{
+   margin-top: 45px;
+   margin-left: 150px;
+   font-size: 30px;
+   font-family: 'Times New Roman', Times, serif;
+   font-weight: 10px;
+   line-height: 20px;
+}
+.paragraph{
+    margin: 30px 60px;
+    text-align:justify;
+    font-size: 16px;
+}
+.paragraph1{
+    text-indent: 30px;
+}
+
+
+
+
+
+
